@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout<<"gitbash practice"
+    cout<<"gitbash practice";
     return 0;
 }
